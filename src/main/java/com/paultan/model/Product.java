@@ -1,7 +1,7 @@
 package com.paultan.model;
 
 
-
+//test
 public class Product {
 	
 	private String id;
